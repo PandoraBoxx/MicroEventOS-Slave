@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/PwmSignal05Slave.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>4096</length>
+      <used>226</used>
+      <free>3870</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>23808</length>
+      <used>5079</used>
+      <free>18729</free>
+    </memory>
+  </executable>
+</project>
